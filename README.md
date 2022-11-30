@@ -1,4 +1,4 @@
-# Scraping bill consultation of the gas company_website
+# Scraping bill consultation of the gas company website
 
 You can use scrape techniques for get free information of another company, in this case we go to scrape bill consultation of the gas company_website
 
